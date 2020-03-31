@@ -1,0 +1,59 @@
+{
+    "menu": [{
+            "kategori": "cupcakes",
+            "nama": "Chocolate Covered Strawberry Cupcakes",
+            "deskripsi": "Cupcake dengan topping coklat dan terdapat buah strawberry yang diselimuti oleh coklat",
+            "harga": 24000,
+            "gambar": "Covered-Strawberry-Cupcakes.jpg"
+        },
+        {
+            "kategori": "cupcakes",
+            "nama": "Frosting Sprinkles Cupcakes",
+            "deskripsi": "Cupcake dengan topping coklat dan frosting springkles yang lucu",
+            "harga": 22000,
+            "gambar": "cupcakes-frosting-sprinkles.jpg"
+        },
+        {
+            "kategori": "cupcakes",
+            "nama": "Moist Chocolate Cupcakes",
+            "deskripsi": "Cupcake dengan topping coklat moist",
+            "harga": 20000,
+            "gambar": "moist-chocolate-cupcakes.jpg"
+        },
+        {
+            "kategori": "cupcakes",
+            "nama": "Moist Vanilla Cupcakes",
+            "deskripsi": "Cupcake dengan topping vanilla moist",
+            "harga": 20000,
+            "gambar": "Moist-Vanilla-Cupcakes.jpg"
+        },
+        {
+            "kategori": "cupcakes",
+            "nama": "Red White Blue Cupcakes",
+            "deskripsi": "Cupcake less sugar dengan topping perpaduan warna putih biru dan merah",
+            "harga": 25000,
+            "gambar": "Red-White-Blue-Cupcakes.jpg"
+        },
+        {
+            "kategori": "milkshake",
+            "nama": "Chocolate Peanut Milkshake",
+            "deskripsi": "Milkshake less sugar dengan topping kacang dan coklat",
+            "harga": 26000,
+            "gambar": "Chocolate-Peanut-Milkshake.jpg"
+        },
+        {
+            "kategori": "milkshake",
+            "nama": "Emerald Mint Milkshake",
+            "deskripsi": "Milkshake less sugar dengan mint yang menyegarkan",
+            "harga": 24000,
+            "gambar": "emerald-mint-milkshake.jpg"
+        },
+        {
+            "kategori": "milkshake",
+            "nama": "Stocksy Milkshake",
+            "deskripsi": "Milkshake less sugar dengan topping butter cookies dan coklat parut",
+            "harga": 27000,
+            "gambar": "Stocksy_milkshake.jpg"
+        }
+    ]
+}
