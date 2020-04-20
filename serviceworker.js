@@ -10,8 +10,7 @@ var urlsToCache = [
 self.addEventListener('install', function (event) {
     // Perform install steps
     event.waitUntil(
-        caches.open(CACHE_NAME)
-        .then(function (cache) {
+        caches.open(CACHE_NAME).then(function (cache) {
             console.log('in install serviceworker... cache opened');
             return cache.addAll(urlsToCache);
         })
@@ -38,7 +37,7 @@ self.addEventListener('activate', function (event) {
     event.waitUntil(
         caches.keys().then(function (cacheNames) {
             return Promise.all(
-                cacheNames.filter(function (cacheName) {
+                cacheNames.filter(function () {
                     return cacheNames != CACHE_NAME
                 }).map(function (cacheName) {
                     return caches.delete(cacheName)
