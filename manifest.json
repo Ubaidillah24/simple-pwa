@@ -2,7 +2,7 @@
   "name": "SyeflyCake",
   "short_name": "SyeflyCake",
   "theme_color": "#e8a6ec",
-  "background_color": "#dddddd",
+  "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
